@@ -6,3 +6,4 @@ while num > 0:
         max_num = num % 10
     num = num // 10
 print(max_num)
+#
