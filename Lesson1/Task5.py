@@ -9,4 +9,4 @@ else:
 print(f"Показатель рентабельности:{((incoming-outgoing)/incoming)}")
 personal = int(input("Введите количество сотрудников:"))
 print(f'Показатель прибыли в расчете на одного человека:{(incoming-outgoing)/personal} руб/чел')
-#
+#finish
