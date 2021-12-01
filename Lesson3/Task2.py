@@ -4,4 +4,4 @@ def person(n, s, y, t, e, p):
 
 
 print(person(n='Ivan', s='Ivanov', y=1981, t='Moscow', e='iivanov@mail.ru', p='89165555555'))
-
+#
