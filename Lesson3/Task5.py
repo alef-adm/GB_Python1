@@ -12,4 +12,4 @@ try:
         s += n2
 except ValueError:
     print(s)
-#
+print(s)#
