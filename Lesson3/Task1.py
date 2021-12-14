@@ -6,3 +6,4 @@ def division(a, b):
 
 
 print(division(int(input("Введи любое число:")), int(input("Введи число не равное 0:"))))
+#
