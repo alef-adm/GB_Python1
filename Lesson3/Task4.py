@@ -10,3 +10,4 @@ def exponentiation(x, y):
 
 
 print(exponentiation(float(input("Введи любое положительное число:")), int(input("Введи целое отрицательное число:"))))
+#
